@@ -142,7 +142,7 @@ else:
 URL = environ.get("URL", "")
 if len(URL) == 0:
     else:
-    if URL.startswith(('https://', 'http://')):
+    if URL.startswith(('https://github.com/Ismartshankaruser/HaAutofilterBot.git/', 'https://github.com/Ismartshankaruser/HaAutofilterBot.git/')):
         if not URL.endswith("/"):
             URL += '/'
     elif is_valid_ip(URL):
