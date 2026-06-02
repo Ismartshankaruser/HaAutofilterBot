@@ -16,7 +16,7 @@ class script(object):
 
     MY_OWNER_TXT = """★ Name: RiderEpic
 ★ Username: @Rider_Epic
-★ Country: India 🇮🇳"""
+★ Country: Srilanka 🇱🇰"""
 
     STATUS_TXT = """👤 Total Users: <code>{}</code>
 😎 Premium Users: <code>{}</code>
